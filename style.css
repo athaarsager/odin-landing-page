@@ -85,6 +85,8 @@ button {
 }
 
 .general-info {
+    padding-top: 25px;
+    padding-bottom: 50px;
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -115,6 +117,32 @@ h2 {
     flex-direction: column;
     width: 150px;
     text-wrap: wrap;
+}
+
+.quote-section {
+    background-color: #e5e7eb;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.hoid-quote {
+    font-size: 36px;
+    color: #1f2937;
+    font-weight:lighter;
+    font-style: italic;
+    margin: 0;
+    align-self: center;
+    width: 800px;
+    text-wrap: wrap;
+}
+
+.quote-credit {
+    align-self: end;
+    font-size: 18px;
+    margin-right: 250px;
 }
 
 /* End of Main Content Styling */
