@@ -45,6 +45,7 @@ a {
 
 h1 {
     font-size: 48px;
+    font-weight: bolder;
     color: #f9faf8;
 }
 .header-content-left {
@@ -76,7 +77,42 @@ button {
 }
 
 /*end of header styling */
+
+/* Main Content Styling */
+.main-content {
+    display: flex;
+    flex-direction: column;
+}
+
+.general-info {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+h2 {
+    font-size: 36px;
+    font-weight: bolder;
+    align-self: center;
+}
+
+.nonsense-images {
+    display: flex;
+    flex: auto;
+    justify-content: center;
+    gap: 50px;
+}
+
 .nonsense-images img {
     height: auto;
     width: 150px;
 }
+
+.pic-with-info {
+    display: flex;
+    flex-direction: column;
+    width: 150px;
+    text-wrap: wrap;
+}
+
+/* End of Main Content Styling */
