@@ -1,7 +1,8 @@
 # odin-landing-page
 
+This is a basic website homepage loosely inspired by the character "Hoid" from Brandon Sanderson's Cosmere books. It demonstrates an understanding of html layout and basic css styling elements, as well as a basic grasp of flexbox and how it can be used to align and organize content.
 
-
+Image credits below:
 
 William Shakespeare image by <a href="https://pixabay.com/users/gdj-1086657/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=6522601">Gordon Johnson</a> from <a href="https://pixabay.com//?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=6522601">Pixabay</a>
 
