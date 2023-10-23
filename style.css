@@ -156,6 +156,7 @@ h2 {
     padding: 50px;
     display: flex;
     justify-content: space-evenly;
+    gap: 40px;
 }
 
 h3 {
@@ -174,9 +175,9 @@ h3 {
 }
 
 .bottom-button {
+    min-height: 40px;
     border: 2px solid #f9faf8;
     border-radius: 10px;
-    flex-shrink: 0;
 }
 
 /* End of Main Content Styling */
@@ -185,7 +186,8 @@ h3 {
 
 .footer {
     background-color: #1f2937;
-    color: #f9faf8;
+    color: #e5e7eb;
+    font-size: 18px;
 }
 
 .footer-container {
