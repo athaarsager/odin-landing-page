@@ -1,7 +1,9 @@
 body {
     display: flex;
     flex-direction: column;
+    padding: 0;
     margin: 0;
+    align-items: left;
 }
 /* Start of header styling */
 .header {
@@ -176,10 +178,18 @@ h3 {
     border-radius: 10px;
     flex-shrink: 0;
 }
+
 /* End of Main Content Styling */
 
 /* Start of Footer Styling */
+
 .footer {
-    margin-top: auto;
+    background-color: #1f2937;
+    color: #f9faf8;
+}
+
+.footer-container {
+    display: flex;
+    justify-content: center;
 }
 /* End of Footer Styling */
